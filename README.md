@@ -17,4 +17,5 @@ Aspirant Computer Science student focused on software logic, autonomous AI syste
 
 ---
 
-📫 **Connect with me:** anas3334jb@gmail.com/https://www.linkedin.com/in/anas-amjad/
+📫 **Connect with me:** anas3334jb@gmail.com
+https://www.linkedin.com/in/anas-amjad/
