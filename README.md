@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Anas Amjad! 👋
 
-<!--
-**anas3334jb-ship-it/anas3334jb-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspirant Computer Science student focused on software logic, autonomous AI systems, and practical agent execution.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Core Research & Learning
+* **Agentic Workflows:** Investigating failure modes, state retention, and step-verification mechanisms in AI agents.
+* **Systems Logic:** Writing C++ and Python tools to test input validation, loop detection, and process guardrails.
+* **Benchmark Analysis:** Studying real-world execution challenges using benchmarks like WebArena.
+
+---
+
+### 🎯 Portfolio & Academic Goals
+* **Research Portfolio:** Documenting transparent, hands-on learning logs and code experiments on GitHub.
+* **Academic Target:** Preparing for merit-based international undergraduate scholarships in Computer Science and Artificial Intelligence.
+
+---
+
+📫 **Connect with me:** anas3334jb@gmail.com/https://www.linkedin.com/in/anas-amjad/
