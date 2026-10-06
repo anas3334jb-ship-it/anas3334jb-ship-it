@@ -4,7 +4,7 @@ Aspirant Computer Science student focused on software logic, autonomous AI syste
 
 ---
 
-### 🔬 Core Research & Learning
+###  Core Research & Learning
 * **Agentic Workflows:** Investigating failure modes, state retention, and step-verification mechanisms in AI agents.
 * **Systems Logic:** Writing C++ and Python tools to test input validation, loop detection, and process guardrails.
 * **Benchmark Analysis:** Studying real-world execution challenges using benchmarks like WebArena.
