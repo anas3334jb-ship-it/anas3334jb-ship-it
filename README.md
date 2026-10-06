@@ -11,7 +11,7 @@ Aspirant Computer Science student focused on software logic, autonomous AI syste
 
 ---
 
-### 🎯 Portfolio & Academic Goals
+###  Portfolio & Academic Goals
 * **Research Portfolio:** Documenting transparent, hands-on learning logs and code experiments on GitHub.
 * **Academic Target:** Preparing for merit-based international undergraduate scholarships in Computer Science and Artificial Intelligence.
 
