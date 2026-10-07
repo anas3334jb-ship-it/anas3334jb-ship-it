@@ -1,4 +1,4 @@
-# Hi, I'm Anas Amjad! 👋
+# Hi, I'm Anas Amjad! 
 
 Aspirant Computer Science student focused on software logic, autonomous AI systems, and practical agent execution.
 
